@@ -7,6 +7,10 @@ The Google Keep Clone project is a web application that aims to replicate the co
 
 The project includes several key features that allow users to create, edit, and manage notes in a user-friendly and intuitive manner. 
 
+# Flowchart
+![image](https://github.com/lunaticfringe18/Google_Keep_Clone/assets/108046649/cfb42cfd-8431-493f-b58e-ae1e48add1d9)
+
+
 # Features  
 Create, edit, and delete notes  
 Categorize notes using labels  
